@@ -143,4 +143,30 @@ x = sqrt(x)
 x
 
 
+##Function f(x) = x^3 - (3^x) * sin(x)
+f =  function(x){x^3 - (3^x) * sin(x)}
+
+f(4)
+f(5)
+f(pi/2)
+
+product = function(x, y){x*y}
+product(5, 7)
+
+g =  function(x,y,z){exp(x^2 + y^2)*sin(z)}
+g(1,2,3)
+g(1,-1,pi)
+
+
+ls()
+rm(product)
+rm(list = ls())
+
+
+
+
+
+
+
+
 
