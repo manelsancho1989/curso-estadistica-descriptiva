@@ -88,3 +88,59 @@ asin(5) #arc sin x in [-1,1]
 
 acos(-8)
 
+sqrt(2)
+
+print(sqrt(2),10)
+
+round(sqrt(2), 3)
+
+floor(sqrt(2))
+
+ceiling(sqrt(2))
+
+trunc(sqrt(2))
+
+sqrt(2)^2-2
+
+2^50
+
+print(2^50, 15)
+
+print(2^50, 2)
+
+round(1.25, 1)
+round(1.35, 1)
+
+round(sqrt(2), 0)
+round(sqrt(2))
+
+round(digits = 5, sqrt(2))
+
+floor(-3.45)
+ceiling(-3.45)
+
+
+x = (pi^2)/2
+x
+
+y <- cos(pi/4)
+y
+
+
+sin(pi/4)+ cos(pi/4)->z
+z
+
+edad <- 30
+nombre = "Joan Manel"
+
+HOLA = 1
+hola = 5
+
+pi.4 = 4*pi
+pi.4
+
+x = sqrt(x)
+x
+
+
+
